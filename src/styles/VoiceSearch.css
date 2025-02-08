@@ -1,0 +1,18 @@
+.voice-search-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .voice-btn {
+    padding: 10px 20px;
+    background: #3f51b5;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .voice-btn.listening {
+    background: #ff4081;
+  }

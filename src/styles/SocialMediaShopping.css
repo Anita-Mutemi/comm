@@ -1,0 +1,18 @@
+.social-media-shopping-container {
+    padding: 20px;
+    background: #e3f2fd;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .social-media-shopping-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .social-media-shopping-container li {
+    margin: 10px 0;
+  }
+  .social-media-shopping-container a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }

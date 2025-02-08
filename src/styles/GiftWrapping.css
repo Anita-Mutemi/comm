@@ -1,0 +1,22 @@
+.giftwrapping-container {
+    padding: 20px;
+    background: #fbe9e7;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .wrapping-options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .wrapping-options button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background: #ddd;
+    border-radius: 5px;
+  }
+  .wrapping-options .selected {
+    background: #ff4081;
+    color: white;
+  }

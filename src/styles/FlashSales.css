@@ -1,0 +1,15 @@
+.flash-sales-container {
+    background: #ffe6e6;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .flash-sales-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .flash-sales-container li {
+    background: #ffcccc;
+    margin: 5px 0;
+    padding: 10px;
+  }

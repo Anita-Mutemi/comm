@@ -1,0 +1,25 @@
+.rewards-container {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .achievements {
+    margin: 10px 0;
+  }
+  .achievement {
+    background: #f1c40f;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  .rewards-container button {
+    background: #27ae60;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

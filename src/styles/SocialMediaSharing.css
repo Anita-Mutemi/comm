@@ -1,0 +1,13 @@
+.social-sharing-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .social-icons a {
+    margin: 0 10px;
+    font-size: 24px;
+    color: #555;
+    transition: color 0.3s;
+  }
+  .social-icons a:hover {
+    color: #ff4081;
+  }

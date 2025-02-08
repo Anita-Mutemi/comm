@@ -1,0 +1,18 @@
+.gift-cards-container {
+    background: #f7f3e9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .gift-cards-container input {
+    padding: 10px;
+    width: 60%;
+    margin: 10px 0;
+  }
+  .gift-cards-container button {
+    background: #d4a017;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }

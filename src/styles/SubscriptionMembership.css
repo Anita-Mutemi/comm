@@ -1,0 +1,22 @@
+.subscription-container {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .plans {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .plans button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background: #ddd;
+    border-radius: 5px;
+  }
+  .plans .selected {
+    background: #ff6600;
+    color: white;
+  }

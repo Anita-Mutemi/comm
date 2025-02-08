@@ -1,0 +1,26 @@
+.marketplace-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .vendor-list {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+  }
+  .vendor-card {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  .vendor-card h4 {
+    margin: 5px 0;
+  }
+  .vendor-card p {
+    font-size: 12px;
+    color: #777;
+  }
+  .vendor-card span {
+    font-weight: bold;
+    color: #3f51b5;
+  }

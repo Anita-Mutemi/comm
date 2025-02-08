@@ -1,0 +1,14 @@
+.recommendations-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .recommendations-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .recommendations-container li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+  }

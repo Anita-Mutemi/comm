@@ -1,0 +1,30 @@
+.subscription-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .subscription-list {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+  }
+  .subscription-card {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  .subscription-card h4 {
+    margin: 5px 0;
+  }
+  .subscription-card p {
+    font-size: 12px;
+    color: #777;
+  }
+  .subscription-card button {
+    background: #3f51b5;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
