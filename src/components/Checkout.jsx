@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { CartContext } from "../context/CartContext";
 import "../styles/Checkout.css";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 const Checkout = () => {
   const { cart, getTotalPrice } = useContext(CartContext);
